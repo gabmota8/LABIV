@@ -1,4 +1,4 @@
-package br.gov.sp.fatec.springbootlab4;
+package br.gov.service.fatec.springbootlab4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
